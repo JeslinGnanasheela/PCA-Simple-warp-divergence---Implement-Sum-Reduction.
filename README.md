@@ -18,7 +18,7 @@ Launch the reduceUnrolling16 kernel, which performs reduction using 16 data bloc
 Compare the results obtained from both kernels.
 
 ### Program :
-Developed By : **DHAREENE R K**
+Developed By : **DHAREENE RK**
 </br>
 Register No. : **212222040035**
 ```c
